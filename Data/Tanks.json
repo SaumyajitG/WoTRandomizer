@@ -1,0 +1,299 @@
+{
+    "Tank": [
+        {
+            "id":"01",
+            "Name":"A-20",
+            "Tier":"5",
+            "Country":"Russian",
+            "Type":"Light"
+        },
+
+        {
+            "id":"02",
+            "Name":"AMX ELC bis",
+            "Tier":"5",
+            "Country":"French",
+            "Type":"Light"
+        },
+
+        {
+            "id":"03",
+            "Name":"Covenanter",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Light"
+        },
+
+        {
+            "id":"04",
+            "Name":"M24 Chaffee",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Light"
+        },
+
+        {
+            "id":"05",
+            "Name":"M7",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Light"
+        },
+
+        {
+            "id":"06",
+            "Name":"T-50",
+            "Tier":"5",
+            "Country":"Russian",
+            "Type":"Light"
+        },
+
+        {
+            "id":"07",
+            "Name":"T-50-2",
+            "Tier":"5",
+            "Country":"Russian",
+            "Type":"Light"
+        },
+
+        {
+            "id":"08",
+            "Name":"VK 16.02 Leopard",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Light"
+        },
+
+        {
+            "id":"09",
+            "Name":"25TP KSUST II",
+            "Tier":"5",
+            "Country":"Polish",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"10",
+            "Name":"Cavalier",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"11",
+            "Name":"DS PZInz",
+            "Tier":"5",
+            "Country":"Polish",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"12",
+            "Name":"M4 Improved",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"13",
+            "Name":"M4A1 Sherman",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"14",
+            "Name":"M4A2E4 Sherman",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"15",
+            "Name":"Matilda Black Prince",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"16",
+            "Name":"Matilda IV",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"17",
+            "Name":"P.43",
+            "Tier":"5",
+            "Country":"Italian",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"18",
+            "Name":"Pz.Kpfw. III Ausf. K",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"19",
+            "Name":"Pz.Kpfw. III/IV",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"20",
+            "Name":"Pz.Kpfw. IV",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"21",
+            "Name":"Pz.Kpfw. IV Ausf. H",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"22",
+            "Name":"Pz.Kpfw. T 25",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"23",
+            "Name":"Pz.Kpfw. V/IV",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"24",
+            "Name":"Pz.Kpfw. V/IV Alpha",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"25",
+            "Name":"Ram II",
+            "Tier":"5",
+            "Country":"American",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"26",
+            "Name":"Renault G1",
+            "Tier":"5",
+            "Country":"French",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"27",
+            "Name":"Sherman III",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"28",
+            "Name":"Skoda T 24",
+            "Tier":"5",
+            "Country":"Czech",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"29",
+            "Name":"Strv m/42",
+            "Tier":"5",
+            "Country":"Swedish",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"30",
+            "Name":"T-34",
+            "Tier":"5",
+            "Country":"Russian",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"31",
+            "Name":"T-34 Shielded",
+            "Tier":"5",
+            "Country":"Russian",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"32",
+            "Name":"Turan III prototipus",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"33",
+            "Name":"Type 3 Chi-Nu",
+            "Tier":"5",
+            "Country":"Japanese",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"34",
+            "Name":"Type 3 Chi-Nu Kai",
+            "Tier":"5",
+            "Country":"Japanese",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"35",
+            "Name":"Type T-34",
+            "Tier":"5",
+            "Country":"Chinese",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"36",
+            "Name":"Valiant",
+            "Tier":"5",
+            "Country":"British",
+            "Type":"Medium"
+        },
+
+        {
+            "id":"37",
+            "Name":"Vk 30.01 (H)",
+            "Tier":"5",
+            "Country":"German",
+            "Type":"Medium"
+        }      
+    ]
+}
